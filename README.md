@@ -1,1 +1,1 @@
-# arctic
+# Arctic Atlas
