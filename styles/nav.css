@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap');
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0c0c0c;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+#musique-developers {
+  position: absolute;
+  left: 70vh;
+  color: aliceblue;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: large;
+}
+
+#nav-bar {
+  position: static;
+  color: aliceblue;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: medium;
+
+
+}
